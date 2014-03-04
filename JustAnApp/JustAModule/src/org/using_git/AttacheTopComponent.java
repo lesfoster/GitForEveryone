@@ -46,7 +46,7 @@ public final class AttacheTopComponent extends TopComponent {
 
         jButton1.addActionListener( new ActionListener() {
            public void actionPerformed( ActionEvent ae ) {
-               jTextArea1.setText( jTextArea1.getText() + ", Sir!" );
+               jTextArea1.setText( "Please " + jTextArea1.getText() + ", Sir!" );
            }
         });
     }
