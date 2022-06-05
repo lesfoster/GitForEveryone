@@ -56,7 +56,7 @@ allows some level of interaction, and since properties may include web links,
 drilling down still further into interesting alignments is also possible, as are
 indels and substitutions.
 
-# Similar Projects
+# Related
 
 https://en.wikipedia.org/wiki/List_of_alignment_visualization_software this
 Wikipedia page has several examples of 
