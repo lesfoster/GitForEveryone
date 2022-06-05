@@ -7,7 +7,7 @@ tags:
   - 3D
 
 authors:
-  - name: Leslie L. Foster^[Co-first author] # note this makes a footnote saying 'Co-first author'
+  - name: Leslie L. Foster^[Co-first author]
     orcid: 0000-0002-8909-3711
     affiliation: none
 # Summary
