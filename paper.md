@@ -76,3 +76,5 @@ functionality was reviewed by a group of three reviewers at Applied Biosystems
 (now part of Thermo Fisher Scientific).  The predecessor "Cylindrical BLAST
 Viewer" was created as a Master's degree project at Johns Hopkins
 University, with supervision by Dr. Russell Turner.
+
+# References
