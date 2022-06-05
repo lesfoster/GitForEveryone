@@ -5,7 +5,10 @@ tags:
   - Java
   - bioinformatics
   - 3D
-
+authors:
+  - name: Leslie L. Foster^[Co-first author] # note this makes a footnote saying 'Co-first author'
+    orcid: 0000-0002-8909-3711
+    affiliation: none
 # Summary
 Cylindrical Alignment App is a desktop application for examining Biomolecular
 alignments such as would arise from running BLAST (Basic Local Alignment Search
