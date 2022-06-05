@@ -7,13 +7,15 @@ tags:
   - 3D
 
 authors:
-  - name: Leslie L. Foster^[Co-first author]
+  - name: Leslie L. Foster
     orcid: 0000-0002-8909-3711
     affiliation: 1
 
 affiliations:
- - name: none
+ - name: Independent Researcher, USA
    index: 1
+
+date: 04 June 2022
 
 # Summary
 Cylindrical Alignment App is a desktop application for examining Biomolecular
@@ -45,8 +47,7 @@ alignment shape.
 
 The Cylindrical Alignment App is the successor of a previous viewer also written
 by the author called the Cylindrical BLAST Viewer.
-# Authors
-Leslie L. Foster, unaffiliated
+
 # Statement of Need
 Using this code to present alignments allows (up to a certain limit) more
 alignments to be seen on the screen at one time than viewing them flat normally
