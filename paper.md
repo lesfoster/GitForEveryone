@@ -9,6 +9,11 @@ tags:
 authors:
   - name: Leslie L. Foster^[Co-first author]
     orcid: 0000-0002-8909-3711
+    affiliation: 1
+
+affiliations:
+ - name: none
+   index: 1
 
 # Summary
 Cylindrical Alignment App is a desktop application for examining Biomolecular
