@@ -6,7 +6,7 @@ tags:
   - bioinformatics
   - 3D
 authors:
-  - name: Foster, Leslie L^[author]
+  - name: Leslie L Foster
     orcid: 0000-0002-8909-3711
     affiliation: 1
 affiliations:
